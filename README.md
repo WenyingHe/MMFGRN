@@ -6,3 +6,11 @@
 	xgboost version=1.0.2
 	scikit-learn version=0.22.1
 	numpy version=1.18.1
+
+### The describe of the program 
+
+```
+The program of M3_xgb is a single model for GRN inference on time-series and steady-state data jointly.
+
+The program of Fusion_model can get the global regulatory link ranking.
+```
