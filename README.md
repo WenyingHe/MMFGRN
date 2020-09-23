@@ -21,4 +21,4 @@ The program of Fusion_model.py can get the global regulatory link ranking.
 	path_in_knockdowns：path of Knockdown data
 	path_out：the global regulatory link ranking
 	samples：number of times-series experiments
-	parameters of xgboost or lightgbm
+	Other parameters of xgboost or lightgbm
