@@ -10,7 +10,7 @@
 ### The describe of the program 
 
 ```
-The program of M3_xgb is a single model for GRN inference on time-series and steady-state data jointly.
+The program of M3_xgb.py is a single model for GRN inference on time-series and steady-state data jointly.
 
-The program of Fusion_model can get the global regulatory link ranking.
+The program of Fusion_model.py can get the global regulatory link ranking.
 ```
