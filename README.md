@@ -16,7 +16,7 @@ The program of Fusion_model.py can get the global regulatory link ranking.
 ```
 
 ### Parameters
-        path_in_timeseries: path of time-series data
+		path_in_timeseries: path of time-series data
 		path_in_knockouts: path of Knockout data
 		path_in_knockdowns：path of Knockdown data
 		path_out：the global regulatory link ranking
