@@ -11,8 +11,7 @@
 
 ```
 DREAM4 provides gene expression datasets and directed benchmark networks for regulatory networks of 10 genes and 100 genes, respectively.
-Each scale contains five directed networks.
-And each directed network provides gene expression data under steady and timeseries.
+Each scale contains five directed networks. And each directed network provides gene expression data under steady and timeseries.
 
 The program of M3_xgb.py is a single model for GRN inference on time-series and steady-state data jointly.
 
