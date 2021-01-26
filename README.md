@@ -1,4 +1,4 @@
-# MMFGRN: a multi-source and multi-model fusion method for reconstruct Gene Regulatory Network
+# MMFGRN: a multi-source and multi-model fusion method for Gene Regulatory Network reconstruction
 
 ### The version of Python and packages
     Python version=3.7.6
